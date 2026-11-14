@@ -27,3 +27,6 @@ an important password. Remove it with `/authbypass clear` when no longer needed.
 Only matching chat messages are detected; custom server wording may need regex
 adjustments in `config/authmebypass.json`. Captcha and extra verification steps
 must be completed manually.
+
+
+Build workflow: GitHub Actions builds the mod and uploads the JAR as a workflow artifact.
