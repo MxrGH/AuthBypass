@@ -30,3 +30,5 @@ must be completed manually.
 
 
 Build workflow: GitHub Actions builds the mod and uploads the JAR as a workflow artifact.
+
+CI configuration adjusted to resolve the NeoForge plugin through pluginManagement.
